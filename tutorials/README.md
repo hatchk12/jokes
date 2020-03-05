@@ -1,6 +1,6 @@
 # Tutorials
 
-[Getting Started](/tutorials/1 Getting Started.md)
+[Getting Started](/tutorials/1GettingStarted.md)
 
 * Part 1: [Getting Started](/tutorials/1 Getting Started.md)
 
