@@ -107,7 +107,7 @@ notice this looks a lot like the Google search box.
 
 You should now see a working search box on the home page:
 
-![search box](/screenshots/searchbox.png)
+![search box](/screenshots/search-box.png)
 
 How does this manage to search as you type? Recall that Vue uses data binding
 to bind the input box with the `searchText` property. Every time the user types
