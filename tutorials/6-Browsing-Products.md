@@ -92,3 +92,7 @@ Remove the route for `About` and replace it with the one for `Browse`:
 Once you save this, you should be able to visit the Browse page and select a country:
 
 ![browsing products](/screenshots/browse/png)
+
+## Next Tutorial
+
+[Shopping Cart](/tutorials/7-Shopping-Cart.md)

@@ -197,3 +197,7 @@ Once you save your changes to `Home.vue` you should see the home page displaying
 all of the products in the store:
 
 ![home page](/screenshots/home-page.png)
+
+## Next Tutorial
+
+[Product Search](/tutorials/5-Product-Search.md)

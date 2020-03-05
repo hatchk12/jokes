@@ -13,3 +13,5 @@
 * Part 6: [Browsing Products](/tutorials/6-Browsing-Products.md)
 
 * Part 7: [Shopping Cart](/tutorials/7-Shopping-Cart.md)
+
+* Part 8: [Installing on Digital Ocean](/tutorials/8-Installing-on-Digital-Ocean.md)

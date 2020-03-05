@@ -53,3 +53,7 @@ so that you can have a web server running your code. If you visit `localhost:808
 you should see the default Vue application:
 
 ![default Vue Application](/screenshots/vue-default-app-home.png)
+
+## Next Tutorial
+
+[Setup and Navigation](/tutorials/2-Setup-and-Navigation.md)

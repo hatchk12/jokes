@@ -24,3 +24,7 @@ If you have time and want a challenge, make the cart keep track of quantities.
 Remember, each product has a unique ID. So you could search the cart to see if a product
 is already there, and then add a `quantity` property to items in the cart. You could
 also use an object that is indexed by property ID.
+
+## Next Tutorial
+
+[Installing on Digital Ocean](/tutorials/8-Installing-on-Digital-Ocean.md)

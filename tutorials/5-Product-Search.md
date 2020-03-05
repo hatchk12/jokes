@@ -117,3 +117,7 @@ of their dependencies change. Since `products()` depends on `searchText`, it run
 every time `searchText` changes. To top it off, if `searchText` is an empty string,
 the `filter` in `products()` still works because the empty string is present in
 every product name.
+
+## Next Tutorial
+
+[Browsing Products](/tutorials/6-Browsing-Products.md)
