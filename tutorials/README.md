@@ -1,6 +1,8 @@
 # Tutorials
 
-* Part 1: [Getting Started](/tutorials/1 Getting Started.md)
+* Part 1:
+
+[Getting Started](/tutorials/1 Getting Started.md)
 
 * Part 2: [Setup and Navigation](/tutorials/2 Setup and Navigation.md)
 
