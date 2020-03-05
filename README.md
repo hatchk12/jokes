@@ -5,7 +5,7 @@ In this assignment, you will use Vue to build the front end for a grocery store.
 ## Starting the lab
 
 To start the lab, you must follow this [GitHub Classroom
-link](TBD). This will create a
+link](https://classroom.github.com/a/pRm_xJGz). This will create a
 private repository for you using our classroom site. We will only
 grade repositories created and submitted this way.
 
