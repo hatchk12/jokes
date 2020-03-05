@@ -1,4 +1,4 @@
-# Vue XKCD Browser
+# Grocery Store
 
 In this assignment, you will use Vue to build the front end for a grocery store.
 
