@@ -199,7 +199,7 @@ let mock = [{
   },
   {
     id: 29,
-    name: "Soup Bowl Clear 8oz92008",
+    name: "Proscuitto",
     price: "$9.86",
     country: "Brazil",
     image: "proscuitto.jpg"
