@@ -161,7 +161,7 @@ prop using attribute binding `:products`. I bind this to a `products` variable, 
 this variable could be called anything. The important thing is that the `:products`
 attribute here matches the `products` prop defined inside of `ProductList.vue`.
 
-The script portion of `Hello.vue` should contain:
+The script portion of `Home.vue` should contain:
 
 ```
 <script>
