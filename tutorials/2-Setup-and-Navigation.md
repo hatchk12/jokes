@@ -32,23 +32,23 @@ Now we can modify the HTML template in `src/App.vue` so that it contains the fol
 ```
 <template>
 <div id="app">
-  <div class="menu">
-    <div class="brand">
+  <div id="menu">
+    <div id="brand">
       <router-link to="/">
         <img src="/images/logo.png">
       </router-link>
     </div>
-    <div class="side">
+    <div id="side">
       <router-link to="/browse">
-        <div class="browse">
+        <div class="menu-item browse">
           <img src="/images/globe.png">
           <p>Browse</p>
         </div>
       </router-link>
       <router-link to="/cart">
-        <div class="cart">
+        <div class="menu-item">
           <img src="/images/love.png">
-          <p>0 items</p>
+          <p>{{numberOfItems}} items</p>
         </div>
       </router-link>
     </div>
