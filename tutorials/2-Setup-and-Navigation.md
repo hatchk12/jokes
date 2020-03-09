@@ -103,7 +103,7 @@ body {
 #side {
   grid-area: side;
   display: flex;
-  justify-content: right;
+  justify-content: flex-end;
 }
 
 #side img {
