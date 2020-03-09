@@ -48,7 +48,7 @@ Now we can modify the HTML template in `src/App.vue` so that it contains the fol
       <router-link to="/cart">
         <div class="menu-item">
           <img src="/images/love.png">
-          <p>{{numberOfItems}} items</p>
+          <p>0 items</p>
         </div>
       </router-link>
     </div>
