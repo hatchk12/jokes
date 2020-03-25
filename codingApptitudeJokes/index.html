@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Joke Book</title>
+  <link rel="stylesheet" href="/styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <h1>Joke Book</h1>
+    <div id=app>
+      <div>
+        <p class=input>Number of Jokes:<input type="number" v-model="numJokes" @change="updatePage"></p>
+        <span>{{message}}</span>
+      </div>
+      <button class="reset" @click=getJokes>Reset all Jokes</button>
+      <div class="jokes">
+        <div v-for="joke in jokeList" class=content>
+          <div class="box">
+            <p>{{joke.joke}}</p>
+          </div>
+          <button @click="newJoke(joke)">Generate New Joke</button>
+        </div>
+      </div>
+    </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="/script.js"></script>
+  </body>
+</html>

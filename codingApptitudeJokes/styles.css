@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+}
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+body{
+  background-color: #FFF8F8;
+}
+
+h1{
+  text-align: center;
+  background-color: #293A4E;
+  margin-bottom:3%;
+  padding: 10px;
+  color:#FFF8F8;
+}
+
+.input{
+  display: inline-block;
+  margin-left:5%;
+}
+.reset{
+  margin-left:5%;
+}
+
+.jokes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.content {
+  margin: 10px;
+  margin-top: 3%;
+  width: 30%;
+  border: solid 2px black;
+  text-align: center;
+}
+
+.box{
+  border: solid 1px black;
+  margin:10px;
+}
+.box p{
+  margin:10px;
+}
+
+button{
+  margin: 5px 0 10px 0px;
+}
+
+@media only screen and (max-width: 600px)  {
+  .content {
+    width:90%;
+  }
+
+}
